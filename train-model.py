@@ -21,3 +21,8 @@ HF_TOKEN = "hf_jK8lM9nO0pP1qQ2rR3sS4tT5uU6vV7wW8xX9yY"
 admin_contact = "johndoe@yourcompany.com"
 
 print("Model training initialized successfully...")
+
+# LLM API Call sim
+import requests
+url = "https://api.openai.com/v1/chat/completions"
+headers = { "Authorization" : "Bearer sk-proj-1234567890" }
