@@ -1,5 +1,9 @@
 --- Forwarded Message ---
 From: no-reply@openai.com
+To: employee@company.com
 Subject: Welcome to OpenAI - Verify your email address for ChatGPT
 
-Thank your for registering your account with OpenAI. Please click the link below to verify your email.
+Thank you for creating an account with OpenAI. Please click the link below to verify your email address and complete your registration for ChatGPT and our developer API services.
+
+---
+Also verified registration with: no-reply@anthropic.com (Claude Anthropic)
