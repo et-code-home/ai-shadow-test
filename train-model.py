@@ -24,5 +24,7 @@ print("Model training initialized successfully...")
 
 # LLM API Call sim
 import requests
-url = "https://api.openai.com/v1/chat/completions"
-headers = { "Authorization" : "Bearer sk-proj-1234567890" }
+openai_endpoint = "https://api.openai.com/v1/chat/completions"
+payload = { "model" : "gpt-4",
+          "messages" : [{"role":"user", "content" "Analyze corporate code base"}]}
+response = requests.post(openai_endpoint, json=payload)
