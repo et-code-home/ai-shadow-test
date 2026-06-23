@@ -1,0 +1,10 @@
+--- INTERNAL MEMO: MARKETING CAMPAIGN EXTRACTION ---
+Hey team, since we are under a tight deadline for the Q3 Morgan campaign, I set up a quick automated script to pass our customer logs through an LLM.
+
+I registered an external corporate account on OpenAI using my work email: johndo@yourcompany.com
+
+Here is the temporary bearer token/API key if you need to run the python script:
+sk-proj-4M7a9xK1vR3zQ5w2t9Lp0O6k7mn3b2v1c8x9z0A1B2C3D4E5F6G (fake key)
+
+And here is the Hugging Face user token for the fine-tuning dataset:
+hf_jK8lM9nO0pP1qQ2rR3sS4tT5uU6vV7wW8xX9yY (fake key)
